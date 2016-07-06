@@ -15,7 +15,7 @@ The recommended way to install php-wit is through
 curl -sS https://getcomposer.org/installer | php
 ```
 
-Next, run the Composer command to install the latest stable version of Guzzle:
+Next, run the Composer command to install the latest stable version of php-wit:
 
 ```bash
 php composer.phar require gustavomanolo/php-wit
