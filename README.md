@@ -7,7 +7,7 @@ The PHP SDK for [Wit.ai](https://wit.ai)
 
 ## Install
 
-The recommended way to install Guzzle is through
+The recommended way to install php-wit is through
 [Composer](http://getcomposer.org).
 
 ```bash
