@@ -1,0 +1,30 @@
+{
+    "name": "gustavomanolo/php-wit",
+    "description": "Wit.ai PHP SDK",
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gustavomanolo\\WitPhp\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Manolo",
+            "email": "gustavomanolo@gmail.com"
+        }
+    ],
+    "keywords": [
+        "wit",
+        "wit.ai",
+        "bot",
+        "wit.ai sdk",
+        "chatbot",
+        "bot",
+        "bots",
+        "chat bot",
+        "automationmark"
+    ]
+}
